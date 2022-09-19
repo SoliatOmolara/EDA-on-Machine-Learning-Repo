@@ -1,2 +1,2 @@
 # EDA-on-Machine-Learning-Repo
-This repository is practicing what I learnt on the course 1 (Exploratory Data Analysis for Machine Learning) of IBM Machine Learning Professional course on Coursera.
+This repository is based on practicing what I learnt in the course 1 (Exploratory Data Analysis for Machine Learning) of IBM Machine Learning Professional course on Coursera.

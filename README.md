@@ -2,9 +2,7 @@
 This repository is based on practicing what I learnt in the course 1 (Exploratory Data Analysis for Machine Learning) of IBM Machine Learning Professional course on Coursera.
 
 ## OBJECTIVES:
-This Dataset was gotten from Kaggle to practice all what I have learnt in the first course of IBM Machine Learning Specialization course on Cousera
-
-(Exploratory Data Analysis For Machine Learning). For this Dataset, I will perform the following;
+This Dataset was gotten from Kaggle to practice all what I have learnt in the first course of IBM Machine Learning Specialization course on Cousera (Exploratory Data Analysis For Machine Learning). For this Dataset, I will perform the following;
 
 1. Data Analysis
 
